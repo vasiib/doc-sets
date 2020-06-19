@@ -1,0 +1,33 @@
+.style{
+    background-color: "#2ECFE8";
+    color: aqua;
+}
+fieldset.bor {
+   border: 1.2px solid black;
+   padding:0 1.4em 1.4em 1.4em;
+   
+  }
+  legend.bor{
+      width: auto;
+      border:none;
+      font-size: 0.8em;
+      font-weight: bold;
+  }
+  
+  .header{
+      height: 30px;
+      padding: 5px;
+      justify-content: center;
+      align-items: center;
+      
+  }
+  .main-modal{
+      width: 100%;
+  }
+  .title{
+    font-size: 0.8em;
+      
+  }
+  
+ 
+  

@@ -1,0 +1,71 @@
+
+fieldset.bor {
+   border: 1.2px solid black;
+   padding:0 1.4em 1.4em 1.4em;
+   
+  }
+  legend.bor{
+      width: auto;
+      border:none;
+      font-size: 0.8em;
+      font-weight: bold;
+  }
+  input {
+    margin: 10px;
+    float: left;
+  }
+  select{
+      float: left;
+      width: 200px;
+      height: 30px;
+      margin: 10px;
+  }
+  label{
+      font-weight: bold;
+      font-size: 0.9em;
+      float: right;
+      margin: 10px;
+      
+  }
+
+  table.tabb{
+      
+    padding-bottom: 10px;
+    width: 100%;
+}
+td.bord{
+    border: none;
+}
+
+
+.style{
+    background-color: "#2ECFE8";
+    color: aqua;
+}
+fieldset.bor {
+   border: 1.2px solid black;
+   padding:0 1.4em 1.4em 1.4em;
+   
+  }
+  legend.bor{
+      width: auto;
+      border:none;
+      font-size: 0.8em;
+      font-weight: bold;
+  }
+  
+
+  table.tab{
+      
+      border-collapse: collapse;
+      width: 100%;
+  }
+
+  td,th{
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+  }
+  tr.trr:hover{
+      background-color: lightblue;
+  }
